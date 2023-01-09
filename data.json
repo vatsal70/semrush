@@ -1,0 +1,242 @@
+{
+    "rss": {
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@version": "2.0",
+        "channel": {
+            "title": "Semrush blog",
+            "link": "https://www.semrush.com/blog/",
+            "description": "Semrush blog",
+            "atom:link": {
+                "@xmlns:atom": "http://www.w3.org/2005/Atom",
+                "@href": "https://www.semrush.com/blog/feed/",
+                "@type": "application/rss+xml",
+                "@rel": "self"
+            },
+            "language": "en",
+            "lastBuildDate": "Mon, 09 Jan 2023 08:11:20 +0000",
+            "item": [
+                {
+                    "title": "Semrush Backlinks: 10 Link Building Moves to Make",
+                    "link": "https://www.semrush.com/blog/link-building-with-semrush",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/b0/f1/b0f1751878198d1c4243c01a7d4ca282/best-of-seo-link-building.svg\" alt=\"Semrush Backlinks: 10 Link Building Moves to Make\" width=\"448\"/></p><p>There are so many whys and hows in link building, but just a few right answers. Here are 10 techniques that have actually worked for Semrush users.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Link Building",
+                        "#text": "Link Building"
+                    },
+                    "guid": "https://www.semrush.com/blog/link-building-with-semrush",
+                    "pubDate": "Fri, 06 Jan 2023 14:52:00 +0000"
+                },
+                {
+                    "title": "Types of SEO: What Does Your Site Need to Succeed?",
+                    "link": "https://www.semrush.com/blog/types-of-seo",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/c5/91/c59128563b6bef6d1c00fbe0c47ed302/types-of-seo.svg\" alt=\"Types of SEO: What Does Your Site Need to Succeed?\" width=\"448\"/></p><p>Understanding the types of SEO out there can help you choose the right services to get your website in the spotlight. It also helps you to fix issues yourself and then hand the rest off to a specialist.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Marketing Basics",
+                        "#text": "Marketing Basics"
+                    },
+                    "guid": "https://www.semrush.com/blog/types-of-seo",
+                    "pubDate": "Wed, 04 Jan 2023 15:38:00 +0000"
+                },
+                {
+                    "title": "What Is Internet Marketing? Definition, Tips, and Examples",
+                    "link": "https://www.semrush.com/blog/internet-marketing",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/ac/3e/ac3e7f3db6505b9fcdc565fd5a856610/what-is-internet-marketing.svg\" alt=\"What Is Internet Marketing? Definition, Tips, and Examples\" width=\"448\"/></p><p>Internet marketing refers to the promotion of products or services online. Read our tips and examples here.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Marketing Basics",
+                        "#text": "Marketing Basics"
+                    },
+                    "guid": "https://www.semrush.com/blog/internet-marketing",
+                    "pubDate": "Wed, 04 Jan 2023 09:20:00 +0000"
+                },
+                {
+                    "title": "SERPs: Search Engine Results Pages Explained",
+                    "link": "https://www.semrush.com/blog/serp",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/19/a0/19a0a16275711d0fd952025901a54df4/what-is-serp.svg\" alt=\"SERPs: Search Engine Results Pages Explained\" width=\"448\"/></p><p>\u201cSERP\u201c stands for \u201csearch engine results page.\u201c And as you\u2018ll see, SERPs are incredibly important for SEO.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/What is SEO",
+                        "#text": "What is SEO"
+                    },
+                    "guid": "https://www.semrush.com/blog/serp",
+                    "pubDate": "Mon, 02 Jan 2023 09:41:00 +0000"
+                },
+                {
+                    "title": "How to Do Keyword Research for YouTube that Gets You Views",
+                    "link": "https://www.semrush.com/blog/youtube-keyword-research",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/ab/51/ab5169c83db6d1aa1825b2023d0a85f5/youtube-keyword-research.svg\" alt=\"How to Do Keyword Research for YouTube that Gets You Views\" width=\"448\"/></p><p>We\u2018ve compiled a foolproof guide to doing keyword research for YouTube that will get you more views.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/YouTube & Video",
+                        "#text": "YouTube & Video"
+                    },
+                    "guid": "https://www.semrush.com/blog/youtube-keyword-research",
+                    "pubDate": "Fri, 30 Dec 2022 12:42:00 +0000"
+                },
+                {
+                    "title": "Google Analytics Tracking ID: Where It Is & How to Find It",
+                    "link": "https://www.semrush.com/blog/google-analytics-tracking-id",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/11/84/11846e5af8e8bd97cf1d8d9a1ed63139/how-to-set-up-a-google-analytics-tracking-id.svg\" alt=\"Google Analytics Tracking ID: Where It Is & How to Find It\" width=\"448\"/></p><p>We\u2019ll show you how to find the Universal Analytics tracking ID & GA4 Measurement ID in this guide.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Analytics",
+                        "#text": "Analytics"
+                    },
+                    "guid": "https://www.semrush.com/blog/google-analytics-tracking-id",
+                    "pubDate": "Fri, 30 Dec 2022 12:18:00 +0000"
+                },
+                {
+                    "title": "A Beginner\u2019s Guide to Online Reputation Management",
+                    "link": "https://www.semrush.com/blog/online-reputation-management",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/51/7a/517a4cccf38d8e699dc81d40f83c05be/future-semrush-blog.svg\" alt=\"A Beginner\u2019s Guide to Online Reputation Management\" width=\"448\"/></p><p>Online reputation management (ORM) is the process of creating a positive online presence for your brand.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/PR",
+                        "#text": "PR"
+                    },
+                    "guid": "https://www.semrush.com/blog/online-reputation-management",
+                    "pubDate": "Fri, 30 Dec 2022 11:48:00 +0000"
+                },
+                {
+                    "title": "SEO KPIs: 12 KPIs for SEO to Track & Measure",
+                    "link": "https://www.semrush.com/blog/seo-kpis",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/e8/b1/e8b1eb7db9d6000ac8909a870b447ae2/seo-kpis.svg\" alt=\"SEO KPIs: 12 KPIs for SEO to Track & Measure\" width=\"448\"/></p><p>We\u2019ve identified the 12 most important SEO KPIs you should track to evaluate your SEO performance.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Page Performance",
+                        "#text": "Page Performance"
+                    },
+                    "guid": "https://www.semrush.com/blog/seo-kpis",
+                    "pubDate": "Fri, 30 Dec 2022 09:09:00 +0000"
+                },
+                {
+                    "title": "The 8-Step Checklist for Launching a Creator Marketing Campaign",
+                    "link": "https://www.semrush.com/blog/creator-marketing-campaign",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/2c/1a/2c1a69a687c64d5736c8ae4d57436779/launching-a-creator-marketing-campaign.svg\" alt=\"The 8-Step Checklist for Launching a Creator Marketing Campaign\" width=\"448\"/></p><p>Want to tap into the power that is creator marketing? With 75% of brands clued into this force, it\u2019s a golden strategy to reach new audiences, increase exposure, and build brand credibility all in one.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Marketing Basics",
+                        "#text": "Marketing Basics"
+                    },
+                    "guid": "https://www.semrush.com/blog/creator-marketing-campaign",
+                    "pubDate": "Thu, 29 Dec 2022 18:30:00 +0000"
+                },
+                {
+                    "title": "13 Best Google Analytics Alternatives for 2023",
+                    "link": "https://www.semrush.com/blog/google-analytics-alternatives",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/59/77/5977b21cfa18719428690a37c1ae11bb/google-analytics-alternatives.svg\" alt=\"13 Best Google Analytics Alternatives for 2023\" width=\"448\"/></p><p>We\u2018ve compiled the best alternatives to Google Analytics for 2023 and provided detailed overviews for each.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Analytics",
+                        "#text": "Analytics"
+                    },
+                    "guid": "https://www.semrush.com/blog/google-analytics-alternatives",
+                    "pubDate": "Thu, 29 Dec 2022 09:25:00 +0000"
+                },
+                {
+                    "title": "Meta Keywords: Should You Use Them?",
+                    "link": "https://www.semrush.com/blog/meta-keywords",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/df/c0/dfc0348c5f516583f3616f330d97734f/meta-keywords.svg\" alt=\"Meta Keywords: Should You Use Them?\" width=\"448\"/></p><p>Meta keywords give search engines details about a page\u2018s content. But should you use them? Find out here.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/On-page SEO",
+                        "#text": "On-page SEO"
+                    },
+                    "guid": "https://www.semrush.com/blog/meta-keywords",
+                    "pubDate": "Wed, 28 Dec 2022 14:12:00 +0000"
+                },
+                {
+                    "title": "What Is a Slug? URL Slugs and Why They Matter for SEO",
+                    "link": "https://www.semrush.com/blog/what-is-a-url-slug",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/f1/6d/f16d30b4765f46c9ed96bed9ea04ca44/url-slugs.svg\" alt=\"What Is a Slug? URL Slugs and Why They Matter for SEO\" width=\"448\"/></p><p>In this guide, we\u2018ll talk about the SEO importance of URL slugs and how to use them on your website.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Technical SEO",
+                        "#text": "Technical SEO"
+                    },
+                    "guid": "https://www.semrush.com/blog/what-is-a-url-slug",
+                    "pubDate": "Wed, 28 Dec 2022 08:49:00 +0000"
+                },
+                {
+                    "title": "Top Trending Topics in 2023: What People Talk About Online",
+                    "link": "https://www.semrush.com/blog/top-trending-topics",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/31/ea/31eaa734ffe0788a342a128294965e95/top-trending-topics.svg\" alt=\"Top Trending Topics in 2023: What People Talk About Online\" width=\"448\"/></p><p>Looking to know what were the most trending topics this year? We compiled lists of the top 100 trending and popular themes in the US and across multiple industries. Data was taken from our database of 500,000+ topics with a search volume of >1,000.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Content",
+                        "#text": "Content"
+                    },
+                    "guid": "https://www.semrush.com/blog/top-trending-topics",
+                    "pubDate": "Tue, 27 Dec 2022 15:01:00 +0000"
+                },
+                {
+                    "title": "9 Marketing Report Templates & Examples for SEO, SEM & More",
+                    "link": "https://www.semrush.com/blog/marketing-report-templates-and-examples",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/30/de/30de63aa2f12667d11ec67c4753bb2ac/marketing-report-templates1.svg\" alt=\"9 Marketing Report Templates & Examples for SEO, SEM & More\" width=\"448\"/></p><p>Here are 9 free marketing report templates for your daily, weekly, and monthly reporting. Check them out!</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Marketing Basics",
+                        "#text": "Marketing Basics"
+                    },
+                    "guid": "https://www.semrush.com/blog/marketing-report-templates-and-examples",
+                    "pubDate": "Fri, 23 Dec 2022 12:52:00 +0000"
+                },
+                {
+                    "title": "How to Do a Reverse Image Search (Desktop and Mobile)",
+                    "link": "https://www.semrush.com/blog/reverse-image-search",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/39/4f/394f92fd06792246f5833d1ab3c05c4d/reverse-image-search.svg\" alt=\"How to Do a Reverse Image Search (Desktop and Mobile)\" width=\"448\"/></p><p>A reverse image search is when you search the internet with an image. Here\u2018s how to do one, step by step.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Tactics & Troubleshooting",
+                        "#text": "Tactics & Troubleshooting"
+                    },
+                    "guid": "https://www.semrush.com/blog/reverse-image-search",
+                    "pubDate": "Fri, 23 Dec 2022 11:23:00 +0000"
+                },
+                {
+                    "title": "Top YouTube Searches\u2014Most Searched on YouTube\u2014Semrush",
+                    "link": "https://www.semrush.com/blog/most-searched-on-youtube",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/56/21/562197d1c96167561b5626a40edbd458/most-searched-on-youtube.svg\" alt=\"Top YouTube Searches\u2014Most Searched on YouTube\u2014Semrush\" width=\"448\"/></p><p>We\u2018ve compiled the top YouTube searches of 2022. Get the YouTube search insights you\u2018re looking for.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Original Research",
+                        "#text": "Original Research"
+                    },
+                    "guid": "https://www.semrush.com/blog/most-searched-on-youtube",
+                    "pubDate": "Fri, 23 Dec 2022 09:59:00 +0000"
+                },
+                {
+                    "title": "Top 100: The Most Visited Websites in the US [2022 Top Websites Edition]",
+                    "link": "https://www.semrush.com/blog/most-visited-websites",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/0e/1f/0e1f077a41571329972ccacd06ec3dc2/most-visited-websites.svg\" alt=\"Top 100: The Most Visited Websites in the US [2022 Top Websites Edition]\" width=\"448\"/></p><p>This post uncovers the top 100 most visited websites in the US, deep-diving into a few industries \u2014 Media, Retail, and Streaming Services \u2014 that show the biggest position changes.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Original Research",
+                        "#text": "Original Research"
+                    },
+                    "guid": "https://www.semrush.com/blog/most-visited-websites",
+                    "pubDate": "Fri, 23 Dec 2022 09:30:00 +0000"
+                },
+                {
+                    "title": "SEO Split Test Result: Shortening Title Tags on Product Pages",
+                    "link": "https://www.semrush.com/blog/seo-split-test-result-shortening-title-tags-on-product-pages",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/e0/9e/e09eccc82efc29c9164797a52c21b58e/splitsignal-case-study-54.svg\" alt=\"SEO Split Test Result: Shortening Title Tags on Product Pages\" width=\"448\"/></p><p>Title tags are an important part of on-page SEO because they help search engines understand the content of a webpage and its relevance to a user\u2018s search query.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/SEO Split Testing",
+                        "#text": "SEO Split Testing"
+                    },
+                    "guid": "https://www.semrush.com/blog/seo-split-test-result-shortening-title-tags-on-product-pages",
+                    "pubDate": "Thu, 22 Dec 2022 15:20:00 +0000"
+                },
+                {
+                    "title": "Best Keyword Research Tools: 10 Free & Paid Tools (Reviews)",
+                    "link": "https://www.semrush.com/blog/keyword-research-tools",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/de/c9/dec91fbe7a323212f858683ccb7faaef/best-keyword-research-tools.svg\" alt=\"Best Keyword Research Tools: 10 Free & Paid Tools (Reviews)\" width=\"448\"/></p><p>Check out our list of the best keyword research tools, including both paid and free keyword tool options.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Keyword Research",
+                        "#text": "Keyword Research"
+                    },
+                    "guid": "https://www.semrush.com/blog/keyword-research-tools",
+                    "pubDate": "Thu, 22 Dec 2022 13:52:00 +0000"
+                },
+                {
+                    "title": "What Is A/B Testing? When to Run an A/B Test and Why",
+                    "link": "https://www.semrush.com/blog/ab-testing",
+                    "description": "<p><img src=\"https://static.semrush.com/blog/uploads/media/de/82/de82948635f4811a0e654e66af01c0dc/a-b-testing.svg\" alt=\"What Is A/B Testing? When to Run an A/B Test and Why\" width=\"448\"/></p><p>A/B testing lets you run two different versions of marketing content to see which is the most successful.</p>",
+                    "category": {
+                        "@domain": "https://www.semrush.com/blog/category/Marketing Basics",
+                        "#text": "Marketing Basics"
+                    },
+                    "guid": "https://www.semrush.com/blog/ab-testing",
+                    "pubDate": "Thu, 22 Dec 2022 09:05:00 +0000"
+                }
+            ]
+        }
+    }
+}
