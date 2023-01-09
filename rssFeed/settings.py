@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6&wevla5#2bzxe9s2m+sgiw^_4$xgi*2$c##yh8i3*bh%ql-pj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['semrush.up.railway.app']
 
 
 # Application definition
