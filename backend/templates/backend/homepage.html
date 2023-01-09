@@ -1,0 +1,15 @@
+{% extends 'backend/index.html' %}
+
+{% block body %}
+<div class="container">
+    <div class="card" style="width: 18rem; background-color:honeydew">
+        <div class="card-body">
+          <h5 class="card-title">SEMRUSH</h5>
+          <h6 class="card-subtitle mb-2 text-muted">Blog Articles</h6>
+          <p class="card-text"><b>URL: </b><a href="https://www.semrush.com/blog" style="text-decoration: none;">https://www.semrush.com/blog</a></p>
+          <button type="button" class="btn btn-success"><a href="{% url 'feedparser' %}" target="_blank" style="color: white; text-decoration: none;">FeedParser</a></button>
+          <button type="button" class="btn btn-success"><a href="{% url 'bs4' page=1 %}" target="_blank" style="color: white; text-decoration: none;">BeatifulSoup</a></button>
+        </div>
+      </div>
+</div>
+{% endblock %} 
